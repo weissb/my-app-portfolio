@@ -41,6 +41,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     */
+
     /** Method to send a toast when user touch the button */
 
     public void sendToast(View view) {
